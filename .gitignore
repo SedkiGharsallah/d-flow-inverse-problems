@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.DS_Store
+data/
+*.pt
+*.pth
+stl10_flow/
+*.zip
